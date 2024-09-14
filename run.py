@@ -50,7 +50,7 @@ class CRDSetup:
         os.system("service chrome-remote-desktop start")
 
         print("..........................................................")
-        print("..................Upgraded by Autom Tech..................")
+        print("..............Upgraded by Automation Habibi...............")
         print("..........................................................")
 
         print("Log in PIN : 123456")
